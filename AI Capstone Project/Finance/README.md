@@ -1,5 +1,5 @@
 <h1>Artificial Intelligence Engineer Assignments </h1>
-<h3>Module : AI Capstone Project</h3><br><br>
+<h3>Module : AI Capstone Project</h3><br>
 <b>Assignments : Finance</b><br>
 
 <div _ngcontent-ppr-c44="" class="ng-star-inserted"><div _ngcontent-ppr-c44="" class="project-information"><div _ngcontent-ppr-c44="" class="project-description sl-ck-editor">
