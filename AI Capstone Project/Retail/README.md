@@ -2,7 +2,9 @@
 <h3>AI Capstone Project</h3>
  <b>Assignments : Retail</b><br>
 
- <div _ngcontent-ppr-c44="" class="ng-star-inserted"><div _ngcontent-ppr-c44="" class="project-information"><div _ngcontent-ppr-c44="" class="project-description sl-ck-editor"><p _ngcontent-ppr-c44="">DESCRIPTION</p><div _ngcontent-ppr-c44=""><p><strong>Problem Statement</strong></p>
+ <div _ngcontent-ppr-c44="" class="ng-star-inserted"><div _ngcontent-ppr-c44="" class="project-information"><div _ngcontent-ppr-c44="" class="project-description sl-ck-editor">
+ 
+ <div _ngcontent-ppr-c44=""><p><strong>Problem Statement</strong></p>
 
 <ul>
 	<li>Demand Forecast is one of the key tasks in Supply Chain and Retail Domain in general. It is key in effective operation and optimization of retail supply chain. Effectively solving this problem requires knowledge about a wide range of tricks in Data Sciences and good understanding of ensemble techniques.&nbsp;</li>

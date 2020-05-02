@@ -2,7 +2,10 @@
 <h3>AI Capstone Project</h3>
 <b>Assignments : Finance</b><br>
 
-<div _ngcontent-ppr-c44="" class="ng-star-inserted"><div _ngcontent-ppr-c44="" class="project-information"><div _ngcontent-ppr-c44="" class="project-description sl-ck-editor"><p _ngcontent-ppr-c44="">DESCRIPTION</p><div _ngcontent-ppr-c44=""><p><strong>Problem Statement</strong></p>
+<div _ngcontent-ppr-c44="" class="ng-star-inserted"><div _ngcontent-ppr-c44="" class="project-information"><div _ngcontent-ppr-c44="" class="project-description sl-ck-editor">
+<div _ngcontent-ppr-c44="">
+
+<p><strong>Problem Statement</strong></p>
 
 <ul>
 	<li>Finance Industry is the biggest consumer of Data Scientists. It faces constant attack by fraudsters, who try to trick the system. Correctly identifying fraudulent transactions is often compared with finding needle in a haystack because of the low event rate.&nbsp;</li>
