@@ -19,7 +19,7 @@
 
 <p>&nbsp;</p>
 
-<p><img alt="" height="80" src="https://cfs22.simplicdn.net/paperclip/project/images/1566546571_cap 2.png" width="1262"></p>
+<p><img alt="" height="80" src="1566546571_cap 2.png" width="1262"></p>
 
 <p>&nbsp;</p>
 

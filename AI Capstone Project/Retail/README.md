@@ -17,7 +17,7 @@
 
 <p>&nbsp;</p>
 
-<p><img alt="" height="175" src="https://cfs22.simplicdn.net/paperclip/project/images/1566547170_cap 3.png" width="662"></p>
+<p><img alt="" height="175" src="1566547170_cap 3.png" width="662"></p>
 
 <p><strong>Project Task: Week 1</strong></p>
 

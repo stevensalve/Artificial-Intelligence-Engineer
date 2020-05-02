@@ -5,7 +5,7 @@
  
  <div _ngcontent-ppr-c44=""><p>
  <strong>Problem Statement</strong></p>
- 
+
 <ul>
 	<li>Amazon is an online shopping website that now caters to millions of people everywhere. Over 34,000 consumer reviews for Amazon brand products like Kindle, Fire TV Stick and more are provided.&nbsp;</li>
 	<li>The dataset has attributes like brand, categories, primary categories, reviews.title, reviews.text, and the sentiment. Sentiment is a categorical variable with three levels "Positive", "Negative“, and "Neutral". For a given unseen data, the sentiment needs to be predicted.</li>
@@ -14,7 +14,7 @@
 
 <p><strong>Dataset Snapshot</strong></p>
 
-<p><strong><img alt="" height="339" src="https://cfs22.simplicdn.net/paperclip/project/images/1566552102_Picture1.png" width="1179"></strong></p>
+<p><strong><img alt="" height="339" src="1566552102_Picture1.png" width="1179"></strong></p>
 
 <p><strong>Project Task: Week 1</strong></p>
 
