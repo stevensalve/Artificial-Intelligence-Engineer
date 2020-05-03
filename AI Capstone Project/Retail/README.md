@@ -82,3 +82,16 @@
 </div></div></div>
 
 </div>
+
+
+
+First Part can be  studyin two ways
+credit-fraud-dealing-with-imbalanced-datasets
+https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
+
+
+Second option
+https://github.com/TarunISCO/ml-capstone
+
+Third option
+https://github.com/JoyWang0320/Data-Mining_Credit-Card-Fraud-Detection

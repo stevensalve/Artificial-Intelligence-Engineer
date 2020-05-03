@@ -1,6 +1,6 @@
 <h1>Artificial Intelligence Engineer Assignments </h1>
 <h3>Deep Learning with Keras and Tensorflow</h3> 
-    <b>Assignments - All Dataset are in this folder</b><br>
+    <b>Assignments</b><br>
         <ul>
                <li>House Loan Data Analysis</li>
                <li>Lending Club Loan Data Analysis</li>
